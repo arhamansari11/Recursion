@@ -1,2 +1,2 @@
-# Recursion with Binary Search Advance Implementation
+# Recursion and Binary Search Advance Implementation
 
