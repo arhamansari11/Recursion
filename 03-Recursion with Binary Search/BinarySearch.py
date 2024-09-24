@@ -2,7 +2,7 @@ arr = [1, 2, 3, 4, 5]
 
 l = 0
 r = len(arr) - 1
-key = 4
+key = 2
 
 found = False  
 
