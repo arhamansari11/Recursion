@@ -14,9 +14,6 @@ def binarysearch(arr , l , r , key):
     else:
         return binarysearch(arr , l , mid -1 , key)
 
-
-
-
 arr = [ 1 , 2 , 3 ,4 ,5]
 left = 0
 right = len(arr) - 1
