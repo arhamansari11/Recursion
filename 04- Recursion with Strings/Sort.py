@@ -13,5 +13,7 @@ def issort(arr , size):
 arr = [5 ,  1 , 2, 4 ,8]
 size = len(arr)
 issort(arr , size)
-for i in range(len(arr)):
-    print(arr[i])
+# for i in range(len(arr)):
+#     print(arr[i])
+
+print(arr)
