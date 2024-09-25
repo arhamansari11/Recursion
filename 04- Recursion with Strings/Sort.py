@@ -1,4 +1,5 @@
 def issort(arr , size):
+    print(arr)
     if size == 0:
         return
     if size == 1:
