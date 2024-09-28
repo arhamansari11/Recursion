@@ -2,6 +2,10 @@
 
 Recursion is a fundamental concept in programming where a function calls itself in order to solve smaller instances of the same problem. This README file will walk you through the basics of recursion, some common patterns, and examples.
 
+# Slides Link:
+
+<a href="https://docs.google.com/presentation/d/199KyMX62L1FhrlbIyqq8WqLXLh-3yJ0Bx7WuiW3fJds/edit#slide=id.p"> Slides </a>
+
 ## Table of Contents
 - [What is Recursion?](#what-is-recursion)
 - [Key Concepts](#key-concepts)
