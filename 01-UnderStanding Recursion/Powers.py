@@ -1,13 +1,13 @@
 def power(n):
-
-    # Base Case
-
+    
     if n == 0:
         return 1
     
-    # Recursive Solution
-
-    return 2 * power(n-1)
+    small_prob = power(n-1)
+    big_prob = 2 * small_prob
+    return big_prob
     
 
-print(power(8))
+
+n = 5
+print(power(n))

@@ -1,20 +1,16 @@
-def reachHome(src , dest):
+def reach_home(step , destination):
 
-    # Base Case
-
-    if src == dest:
-        print(src , dest)
-        return 
+    if step == destination:
+        return
     
-    # PreProcessing
+    print(step)
 
-    print(src , dest)
-    src = src + 1
+    step = step + 1
 
-    # Recursive Relation
+    return reach_home(step , destination)
 
-    reachHome(src , dest)
 
-src = 1
-dest = 10
-reachHome(src , dest)
+
+destination = 5
+step = 1
+reach_home(step , destination)

@@ -1,22 +1,17 @@
 def counting(n):
 
-    # Base Case
+    print(n)
 
     if n == 0:
         return 0
     
-    # PreProcessing
-
-    print(n)
-
-    # Other Base Case
-
-    # if n == 1:
-    #     return 1 
-
-    #  Recursive Relation
-
-    return n + counting(n-1)
+    ans = n + counting(n-1)
+    
+    print(ans)
+    return ans
 
 
-print(counting(7))
+
+
+n = 7
+print(counting(n))

@@ -1,22 +1,20 @@
-# When a function calls itself directly or indirectly is called recursion.
-
-# def dfs(n):
-
-#     dfs(n)
-
-
 def factorial(n):
+
+    # Base Case
+
     if n == 0:
         return 1
     
-    smallProb = factorial(n-1)  
-    bigProb = n * smallProb
+    # Recursive Relation
 
-    return bigProb
+    # small_prob = factorial(n-1)
+    # big_prob = n * small_prob
+    # return big_prob
 
-    # return n * factorial(n-1)
+    # Recursive Relation
 
-a = 3
+    return n * factorial(n-1)
 
-print(factorial(a))
 
+n = 5
+print(factorial(n))
