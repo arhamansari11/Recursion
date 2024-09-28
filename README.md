@@ -6,6 +6,10 @@ Recursion is a fundamental concept in programming where a function calls itself 
 
 <a href="https://docs.google.com/presentation/d/199KyMX62L1FhrlbIyqq8WqLXLh-3yJ0Bx7WuiW3fJds/edit#slide=id.p"> Slides </a>
 
+# Recording of the Session:
+
+<a href="https://www.facebook.com/iCodeguru/videos/398631263090868"> Recursion WorkShop Recording </a>
+
 ## Table of Contents
 - [What is Recursion?](#what-is-recursion)
 - [Key Concepts](#key-concepts)
