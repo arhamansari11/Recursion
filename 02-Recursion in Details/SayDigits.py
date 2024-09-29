@@ -14,6 +14,6 @@ def say_digits(n , arr):
     print(arr[digit])
     
 
-n = 410
+n = 41
 arr = ["zero" , "one" , "two" , "three" , "four" , "five" , "six" , "seven" , "eight" , "nine"]
 say_digits(n , arr)

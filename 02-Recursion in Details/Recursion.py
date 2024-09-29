@@ -11,6 +11,6 @@ def reach_home(step , destination):
 
 
 
-destination = 5
+destination = 6
 step = 1
 reach_home(step , destination)
